@@ -154,4 +154,4 @@ The analysis supports several service-improvement actions:
 
 ## Portfolio Note
 
-This repository presents the project as a portfolio case study. The underlying dataset is synthetic and was supplied for a practical assessment; therefore, findings should be interpreted as analytical examples rather than claims about a real housing organisation.
+This repository presents the project as a portfolio case study. The underlying dataset is synthetic; therefore, findings should be interpreted as analytical examples rather than claims about a real housing organisation.
